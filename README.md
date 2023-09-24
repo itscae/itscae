@@ -8,3 +8,12 @@ I have a big passion for Cryptography, Machine Learning, Artifical Intelligence,
 I'm currently learning JavaScript, Python and on my way to learn React & Web Development.<br />
 
 Work In Progress...
+```js
+let lazinessLevel = (energy) => {
+  if(energy > 0) {
+    return "active";
+  } else {
+    return "inactive";
+  }
+} 
+```
